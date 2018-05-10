@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        ""
+        "https://cinetflix.fr/playing"
     }
 }
