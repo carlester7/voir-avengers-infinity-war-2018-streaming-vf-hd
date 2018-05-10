@@ -1,5 +1,5 @@
 {
-    "name": "garuda/voir-avengers-infinity-war-2018-streaming-vf-hd",
+    "name": "voir-avengers-infinity-war-2018-streaming-vf-hd",
     "authors": [
         {
             "name": "tes saja",
@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "garuda/talunyes"
+        "": ""
     }
 }
