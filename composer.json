@@ -1,12 +1,13 @@
 {
-    "name": "garuda/voir-avengers-infinity-war-2018-streaming-vf-hd",
+    "name": "garuda/voirregarder",
+    "description": "(Full-Film) Regarder /Avengers: Infinity War/ 2018 Streaming VF HD Gratuit",
+    "type": "metapackage",
+    "license": "MIT",
     "authors": [
         {
-            "name": "tes saja",
+            "name": "yiuzha",
             "email": "testsaja@gmail.com"
         }
     ],
-    "require": {
-        "": ""
-    }
+    "require": {}
 }
